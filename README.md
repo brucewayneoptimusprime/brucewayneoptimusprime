@@ -1,8 +1,7 @@
 [![MasterHead](https://media.tenor.com/v9Te07kXbHsAAAAd/bh187-dc.gif)]
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
 <h3 align="center">I’m deeply enthusiastic about research in theoretical computer science and fields related to applied computer science. I have an extreme passion towards computational biology, computational physics and Quantum Computing.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/36/4d/41364d7221bd77539eca08a7062b3e03.gif">
-<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/736x/6b/cd/a3/6bcda34026d74c277ad5de5bb00173b2.jpg">
+<img align="left" alt="Coding" width="200" src="https://i.pinimg.com/736x/6b/cd/a3/6bcda34026d74c277ad5de5bb00173b2.jpg">
 
 <p align="left"> <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fyat44t6ntuk91.jpg" /> </p>
 
