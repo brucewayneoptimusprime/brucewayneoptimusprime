@@ -1,4 +1,20 @@
+<h1 align="left">Hello World! I feel Alive</h1>
+
+###
+
+<p align="left">I am Aditya Vikram Singh</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
 [![MasterHead](https://media.tenor.com/v9Te07kXbHsAAAAd/bh187-dc.gif)]
+<p align="left">I’m deeply enthusiastic about research in theoretical computer science and fields related to applied computer science. I have an extreme passion towards computational biology, computational physics and Quantum Computing.</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -33,6 +49,9 @@
 
 ###
 
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/736x/6b/cd/a3/6bcda34026d74c277ad5de5bb00173b2.jpg"  />
+</div>
 
 ###
 
@@ -41,9 +60,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/brucewayneoptimusprime/brucewayneoptimusprime/output/snake.svg" alt="Snake animation" />
 
 ###
