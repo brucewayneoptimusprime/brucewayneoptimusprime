@@ -33,9 +33,6 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/736x/6b/cd/a3/6bcda34026d74c277ad5de5bb00173b2.jpg"  />
-</div>
 
 ###
 
