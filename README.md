@@ -62,3 +62,4 @@
 </div>
 
 ###
+![Snake animation](https://github.com/brucewayneoptimusprime/brucewayneoptimusprime/blob/main/github-contribution-grid-snake.svg)
