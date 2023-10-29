@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/v9Te07kXbHsAAAAd/bh187-dc.gif)]
+
 <h1 align="center">Hi 👋, I'm Aditya Vikram Singh</h1>
 <h3 align="center">I’m deeply enthusiastic about research in theoretical computer science and fields related to applied computer science. I have an extreme passion towards computational biology, computational physics and Quantum Computing.</h3>
 
