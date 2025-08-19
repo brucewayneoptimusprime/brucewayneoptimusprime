@@ -1,6 +1,10 @@
 # About Me:
 I am Aditya Vikram Singh
 
+<p align="center">
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/batman-blue-glowing-eyes-dark-desktop-wallpaper-gif-wallpapers-clan.com.gif" width="600" alt="Batman Glowing Eyes">
+</p>
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-vikram-singh-50602a25b/) 
