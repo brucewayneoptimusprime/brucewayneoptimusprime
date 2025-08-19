@@ -1,5 +1,4 @@
-# About Me:
-I am Aditya Vikram Singh
+# I am Aditya Vikram Singh
 
 <p align="center">
   <img src="batman-blue-glowing-eyes-dark-gif-preview-desktop-wallpaper.gif" width="600" alt="Batman Glowing Eyes" />
