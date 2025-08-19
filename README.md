@@ -1,5 +1,5 @@
 # About Me:
-I am Aditya Vikram Singh<br><br>About me<br>[MasterHead]<br><br>I’m deeply enthusiastic about research in theoretical computer science and fields related to applied computer science. I have an extreme passion towards computational biology, computational physics and Quantum Computing.
+I am Aditya Vikram Singh
 
 
 ## Socials:
