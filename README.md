@@ -2,7 +2,7 @@
 I am Aditya Vikram Singh
 
 <p align="center">
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/batman-blue-glowing-eyes-dark-desktop-wallpaper-gif-wallpapers-clan.com.gif" width="600" alt="Batman Glowing Eyes">
+  <img src="batman-blue-glowing-eyes-dark-gif-preview-desktop-wallpaper.gif" width="600" alt="Batman Glowing Eyes" />
 </p>
 
 
